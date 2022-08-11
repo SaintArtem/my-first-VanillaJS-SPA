@@ -1,4 +1,4 @@
-# my-first-VanillaJS-
+# my-first-VanillaJS-app
 This is my first VanillaJS SPA ->
 LINK: https://my-first-spa-37019.web.app/ ->
 Beckend - Firebase ->
